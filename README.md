@@ -4,4 +4,4 @@ The task here is to edit this file and add your name to it. Then send a pull-req
 
 A second task is to create a new file. e.g. YOUR-NAME.md, add some text to it and send another PR.
 
-My name is Rom and this is my first edit on Git
+My name is Rom and this is my first edit on Git. After first save added this text
